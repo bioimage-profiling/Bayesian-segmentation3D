@@ -1,6 +1,3 @@
-# Bayesian-segmentation3D
-Bayesian optimisation for 3D segmentation of single-cells
-
 # MorphoNavigator-3D: Generalizable single-cell phenotyping of cancer spheroids using Bayesian-optimized deep-learning workflows
 
 This project uses Bayesian optimization and deep learning to achieve precise single-cell segmentation in complex cancer spheroids.
